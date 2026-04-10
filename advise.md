@@ -55,7 +55,7 @@ Bạn không cần master Swift trước khi xây dựng app - bạn sẽ học 
 - Cross-platform với một codebase, phù hợp nếu bạn dự kiến sớm mở rộng sang Android
 
 **Nhưng với mục tiêu của bạn, Flutter có nhược điểm:**
-- Flutter yêu cầu team chuẩn bị fork và maintain Unity bridge, không phải là điểm khởi đầu được khuyến nghị cho một platform build mới năm 2026
+- Flutter không mặc định yêu cầu fork hay maintain Unity bridge; đó chỉ là case tích hợp Unity đặc thù. Tuy vậy, nếu mục tiêu là xây dựng trải nghiệm iOS-native sâu nhất ngay từ đầu cho một app chỉ nhắm iOS, Flutter thường không phải điểm khởi đầu được khuyến nghị bằng Swift
 - Khi bạn xây dựng chỉ iOS và không cần Android trong 18 tháng tới, khi app cần bất kỳ khả năng độc quyền của Apple như HealthKit, ARKit, Core ML, Live Activities, Dynamic Island, khi performance là yếu tố phân biệt sản phẩm, hoặc khi brand phụ thuộc vào trải nghiệm iOS-native sâu sắc - Swift là lựa chọn đúng
 - Flutter có learning curve đơn giản và dễ dàng, đặc biệt nếu bạn đã quen với ngôn ngữ lập trình hướng đối tượng như Kotlin hoặc Java, nhưng Swift có môi trường học tập phức tạp hơn, có thể khó khăn cho developers không quen với iOS development hoặc functional programming
 
