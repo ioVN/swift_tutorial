@@ -50,9 +50,9 @@ Bạn không cần master Swift trước khi xây dựng app - bạn sẽ học 
 ### **So sánh với Flutter:**
 
 **Flutter có những ưu điểm:**
-- Benchmark 2025-2026 cho thấy engine Impeller của Flutter không chỉ ngang bằng native mà còn vượt trội trên các metrics quan trọng nhất
-- Engine Impeller đã hoàn toàn ổn định trên iOS và Android (API Level 29+), loại bỏ vĩnh viễn shader compilation jank và mang lại hiệu suất 60/120 FPS nhất quán trên các thiết bị
-- Cross-platform với một codebase
+- Flutter tiếp tục cải thiện rendering với engine Impeller; trong nhiều trường hợp UI phổ biến, hiệu năng có thể tiệm cận native, nhưng vẫn nên kiểm chứng bằng benchmark và tài liệu chính thức cho use case cụ thể
+- Trên iOS và nhiều thiết bị Android mới, Impeller thường giúp giảm tình trạng shader compilation jank và cho trải nghiệm khung hình ổn định hơn, dù mức cải thiện thực tế còn phụ thuộc thiết bị, phiên bản hệ điều hành và cách triển khai app
+- Cross-platform với một codebase, phù hợp nếu bạn dự kiến sớm mở rộng sang Android
 
 **Nhưng với mục tiêu của bạn, Flutter có nhược điểm:**
 - Flutter yêu cầu team chuẩn bị fork và maintain Unity bridge, không phải là điểm khởi đầu được khuyến nghị cho một platform build mới năm 2026
