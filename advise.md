@@ -36,7 +36,7 @@ Xcode với SwiftUI Previews cho phép bạn xem thay đổi UI rất nhanh và 
 
 **3. Cộng đồng & Tài liệu (Ưu tiên #3)**
 
-Theo Stack Overflow Developer Survey 2024, Swift là ngôn ngữ chính cho 73% developer iOS, và con số này tiếp tục tăng. Trong 2026, thách thức không phải là động lực mà là phân biệt tín hiệu và nhiễu - học Swift nghĩa là giảm nhiễu, không thêm nhiều nội dung.
+Stack Overflow Developer Survey 2024 là một nguồn tham khảo tốt để theo dõi mức độ phổ biến và xu hướng sử dụng ngôn ngữ/libraries, nhưng tôi không nên khẳng định một con số "73% developer iOS" nếu không có bảng số liệu gốc xác nhận trực tiếp. Ở góc độ thực tế, Swift vẫn là ngôn ngữ native trung tâm của hệ sinh thái iOS và có tài liệu chính thức rất mạnh từ Apple; bạn có thể tham khảo báo cáo gốc tại: https://survey.stackoverflow.co/2024/
 
 ### **Về Learning Curve:**
 
