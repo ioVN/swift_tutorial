@@ -32,7 +32,7 @@ SwiftUI không chỉ giảm code mà còn tạo ra cấu trúc code tốt hơn v
 
 **2. Tốc độ phát triển (Ưu tiên #2)**
 
-Xcode 17 (beta hiện tại) có preview cập nhật tức thời và hoạt động như app thật - bạn có thể scroll, tap buttons và kích hoạt animations ngay trong preview pane. Hot reload của Swift giúp bạn thấy thay đổi trong vài giây mà không mất state.
+Xcode với SwiftUI Previews cho phép bạn xem thay đổi UI rất nhanh và tương tác trực tiếp trong preview pane (ví dụ scroll, tap button, xem animation). Nói chính xác hơn, đây là trải nghiệm preview/live update của SwiftUI trong Xcode chứ không phải “hot reload của Swift” theo nghĩa thường thấy ở Flutter; tuy vậy, vòng lặp chỉnh sửa UI vẫn khá nhanh và thuận tiện cho việc học cũng như làm app cá nhân.
 
 **3. Cộng đồng & Tài liệu (Ưu tiên #3)**
 
