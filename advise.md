@@ -26,7 +26,7 @@ Với background backend (Golang) 8 năm kinh nghiệm và mục tiêu **tạo a
 
 **1. Performance & UX (Ưu tiên #1 của bạn)**
 
-Swift 6 cho phép app chạy nhanh hơn 30% so với phiên bản cũ, với cơ chế kiểm tra compile-time ngăn ngừa crash và đảm bảo memory safety. SwiftUI đã trở thành lựa chọn mặc định cho phát triển iOS, với Apple thiết kế hầu hết các app chính thức bằng SwiftUI, và các API mới thường ưu tiên SwiftUI trước.
+Swift 6 mang lại nhiều cải tiến về hiệu năng và độ an toàn, với cơ chế kiểm tra compile-time giúp ngăn ngừa một số lỗi và tăng cường memory safety. SwiftUI đã trở thành lựa chọn mặc định cho phát triển iOS, với Apple thiết kế hầu hết các app chính thức bằng SwiftUI, và các API mới thường ưu tiên SwiftUI trước.
 
 SwiftUI không chỉ giảm code mà còn tạo ra cấu trúc code tốt hơn với các view có thể tái sử dụng, state có thể dự đoán được, và UI dễ hiểu hơn. Điều này quan trọng với bạn vì background backend sẽ giúp bạn đánh giá cao kiến trúc code rõ ràng.
 
