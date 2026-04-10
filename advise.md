@@ -1,7 +1,7 @@
 # Tư vấn và tìm kiếm thông tin về mảng mobile 
 
 Prompt: Tôi là một lập trình viên backend (Golang) và là tech-lead với khoảng 8 năm kinh nghiệm trong lĩnh vực nghiên cứu và phát triển phần mềm (không bao gồm Mobile App). Tôi muốn học thêm về mảng mobile với mục tiêu tạo cho mình 1 vài app cá nhân.
-Bạn có thể giúp tôi tư vấn và tìm kiếm thông tin với yêu cầu dưới đây không? Hãy sử dụng công cụ tìm kiếm web và dữ liệu internet nếu điều đó là cần thiết để hoàn thành yêu cầu. Hãy cung cấp thêm nguồn dẫn chứng cho các câu trả lời nếu nó dựa trên các dữ liệu internet. Ở thời điểm năm năm 2026 hiện tại, tôi nên bắt đầu với Swift IOS  hay Dart (Flutter) ?
+Bạn có thể giúp tôi tư vấn và tìm kiếm thông tin với yêu cầu dưới đây không? Hãy sử dụng công cụ tìm kiếm web và dữ liệu internet nếu điều đó là cần thiết để hoàn thành yêu cầu. Hãy cung cấp thêm nguồn dẫn chứng cho các câu trả lời nếu nó dựa trên các dữ liệu internet. Ở thời điểm năm năm 2026 hiện tại, tôi nên bắt đầu với Swift iOS hay Dart (Flutter)?
 
 > Tôi sẽ tìm kiếm thông tin cập nhật về Swift iOS và Flutter năm 2026 để đưa ra tư vấn phù hợp với background và mục tiêu của bạn.
 > Để đưa ra khuyến nghị tốt nhất, tôi muốn hiểu rõ hơn về ưu tiên của bạn:
