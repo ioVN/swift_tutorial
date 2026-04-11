@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
             
-            // Use system images from SF Symboys
+            // Use system images from SF Symbols
             // Image(systemName: "house.fill")
             //      .imageScale(.large)
             //      .foregroundStyle(.tint)
