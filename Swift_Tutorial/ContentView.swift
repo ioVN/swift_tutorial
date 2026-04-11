@@ -47,10 +47,10 @@ struct ContentView: View {
             //  .frame(maxWidth: .infinity, alignment: .center)
         }
         .padding()
-        .preferredColorScheme(.light) // => to set the color scheme to light mode
     }
 }
 
 #Preview {
     ContentView()
+        .preferredColorScheme(.light) // => preview in light mode only
 }
