@@ -43,7 +43,7 @@ struct ContentView: View {
             .fontWeight(.bold)
             .foregroundStyle(.red)
             
-            Text("Come visit for an exprience of lifetime...")
+            Text("Come visit for an experience of lifetime...")
             //  .frame(maxWidth: .infinity, alignment: .center)
         }
         .padding()
