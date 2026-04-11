@@ -23,6 +23,7 @@ struct ContentView: View {
                 .scaledToFit() // => same as .aspectRatio(contentMode: .fit)
                 .clipShape(RoundedRectangle(cornerRadius: 16, style: .continuous))
                 .frame(width: 100, height: 100)
+                .accessibilityHidden(true)
             
             HStack {
                 
